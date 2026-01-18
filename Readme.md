@@ -1,6 +1,6 @@
 # World Happiness Dashboard (2019) | Power BI
 
-
+<img src="https://github.com/Sercan-Ayvaz/World-Happiness-Dashboard-2019-Power-BI/blob/671be53a818075830ddedf972e3cda5d3a517f20/Screenshoots/World%20Happiness%20Power%20BI.png" alt="World-Happiness-Dashboard-2019-Power-BI">
 
 ## Amaç
 
@@ -12,13 +12,13 @@ Bu çalışma, *World Happiness Report 2019* verilerini analiz ederek ülkelerin
 - Ülke Sayısı: 156
 - Yıl: 2019
 - Metrikler:
-&nbsp; - Mutluluk Skoru
-&nbsp; - Kişi Başı GSYİH
-&nbsp; - Özgürlük
-&nbsp; - Sağlıklı Yaşam Beklentisi
-&nbsp; - Sosyal Yardım
-&nbsp; - Cömertlik
-&nbsp; - Yolsuzluk Algısı
+  - Mutluluk Skoru
+  - Kişi Başı GSYİH
+  - Özgürlük
+  - Sağlıklı Yaşam Beklentisi
+  - Sosyal Yardım
+  - Cömertlik
+  - Yolsuzluk Algısı
 
 ## Dashboard İçgörüleri
 - En mutlu ülke: **Finland**
